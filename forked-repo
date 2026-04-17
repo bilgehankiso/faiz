@@ -1,0 +1,7 @@
+curl -s https://api.github.com/repos/bilgehankiso/mcino-Introduction-to-Git-and-GitHub | grep 'fork'
+
+  "fork": true,
+  "forks_url": "https://api.github.com/repos/bilgehankiso/mcino-Introduction-to-Git-and-GitHub/forks",
+  "forks_count": 0,
+  "allow_forking": true,
+  "forks": 0,

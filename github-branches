@@ -1,3 +1,5 @@
+git branch -v
+
   bug-fix-revert e7a7fa6 Update simple-interest.sh
   bug-fix-typo   e7a7fa6 Update simple-interest.sh
 * main           e7a7fa6 Update simple-interest.sh
